@@ -1,0 +1,34 @@
+name: Atualiza card de números
+
+# Regera assets/stats.svg com as contribuições reais: todo dia,
+# a cada push na main e sob demanda.
+
+on:
+  schedule:
+    - cron: "23 6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gera o card
+        run: python scripts/render_stats_svg.py
+
+      - name: Commita se mudou
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg
+          git diff --cached --quiet || (git commit -m "chore: atualiza card de números [skip ci]" && git push)

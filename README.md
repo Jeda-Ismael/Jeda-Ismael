@@ -38,7 +38,16 @@
 <br>
 
 <div align="center">
-  <img width="480" src="assets/ascii-portrait.svg" alt="Retrato em ASCII de Jedaías Ismael" />
+
+<h3><code>jedaias@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="assets/ascii-portrait.svg" width="420" alt="Retrato em ASCII de Jedaías Ismael" /></td>
+<td valign="top"><img src="assets/stats.svg" width="420" alt="Sequência e números de contribuições no GitHub, atualizados todo dia" /></td>
+</tr>
+</table>
+
 </div>
 
 <br>
