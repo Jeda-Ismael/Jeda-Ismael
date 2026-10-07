@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h3><code>jedaias@github ~ $ whoami</code></h3>
+<h3><code>Jedaias Ismael</code></h3>
 
 <table>
 <tr>
