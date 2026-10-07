@@ -45,7 +45,9 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="assets/PowerBI-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg">
+  <img width="40" src="assets/MikroTik-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
@@ -55,30 +57,10 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Symfony-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik">
 
 </div>
 
 <br>
-<br>
-
-<div align="center">
-  <samp>
-    <b>
-      Estatísticas
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jeda-Ismael&show_icons=true&theme=tokyonight&hide_border=true&title_color=A020F0&icon_color=A020F0&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeda-Ismael&layout=compact&theme=tokyonight&hide_border=true&title_color=A020F0&locale=pt-br" alt="Linguagens mais usadas" />
-
-</div>
-
 <br>
 
 <div align="center">
