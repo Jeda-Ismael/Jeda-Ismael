@@ -71,12 +71,3 @@
 
 </div>
 
-##
-
-<br>
-
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Jeda-Ismael&style=flat-square&color=A020F0" /></p>
-</div>
-
-<br>
