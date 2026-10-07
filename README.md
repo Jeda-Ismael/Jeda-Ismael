@@ -15,7 +15,7 @@
 
 <div align="center" width="100%">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=Analista+de+Solu%C3%A7%C3%B5es+e+Dados+%40+NBS+TELECOM;Dados+%7C+Banco+de+Dados+%7C+Infraestrutura+para+ISPs;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Seja+bem-vindo(a)!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=Analista+de+Solu%C3%A7%C3%B5es+e+Dados+%40+NBS+TELECOM;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Seja+bem-vindo(a)!" alt="Typing SVG"/>
 </div>
 
 <br>
