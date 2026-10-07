@@ -9,7 +9,7 @@
   <b>`エ ン ジ ニ ア`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Jedaías Ismael</b>
+      Olá! Eu sou o <b>Jedaías Ismael</b>
   </samp>
 </div>
 
@@ -59,23 +59,26 @@
 <br>
 <br>
 
-<details align="center">
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
+<div align="center">
+  <samp>
+    <b>
+      Estatísticas
+    </b>
+  </samp>
+  <br>
+  <br>
 
-<br>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jeda-Ismael&show_icons=true&theme=tokyonight&hide_border=true&title_color=A020F0&icon_color=A020F0&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeda-Ismael&layout=compact&theme=tokyonight&hide_border=true&title_color=A020F0&locale=pt-br" alt="Linguagens mais usadas" />
 
-##
+</div>
 
 <br>
 
 <div align="center">
   <samp>
     <b>
-      Contact me:
+      Contato
     </b>
   </samp>
   <br>
@@ -84,10 +87,6 @@
   [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:jedaiasismael@gmail.com)
 
 </div>
-
-<br>
-
-</details>
 
 ##
 
