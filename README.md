@@ -15,13 +15,27 @@
 
 <div align="center" width="100%">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Consultor+de+Infraestrutura+para+ISPs;Administrador+de+Banco+de+Dados;Seja+bem-vindo(a)!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=Analista+de+Solu%C3%A7%C3%B5es+e+Dados+%40+NBS+TELECOM;Dados+%7C+Banco+de+Dados+%7C+Infraestrutura+para+ISPs;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Seja+bem-vindo(a)!" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/jedaias_%E2%9A%92-black" />
+</div>
+
+<br>
+
+<div align="center">
+  <samp>
+    💼 Atualmente <b>Analista de Soluções e Dados</b> na <b>NBS TELECOM</b>
+    <br>
+    📊 Transformo dados em soluções para provedores de internet (ISPs)
+    <br>
+    🗄️ Banco de dados, infraestrutura e automação
+    <br>
+    🎓 Estudante de Ciência da Computação
+  </samp>
 </div>
 
 <br>
