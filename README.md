@@ -36,6 +36,12 @@
 </div>
 
 <br>
+
+<div align="center">
+  <img width="480" src="assets/ascii-portrait.svg" alt="Retrato em ASCII de Jedaías Ismael" />
+</div>
+
+<br>
 <br>
 
 <div align="center" style="display: inline_block"><br>
