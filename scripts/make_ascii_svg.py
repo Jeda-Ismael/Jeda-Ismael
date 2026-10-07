@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Gera assets/ascii-portrait.svg: a foto de perfil do GitHub convertida em
+Gera assets/retrato-ascii.svg: a foto de perfil do GitHub convertida em
 caracteres ASCII dentro de uma janela de terminal, com as linhas surgindo
 uma a uma.
 
@@ -19,7 +19,7 @@ import numpy as np
 from PIL import Image, ImageFilter, ImageOps
 
 USER = "Jeda-Ismael"
-OUT = os.path.join(os.path.dirname(__file__), "..", "assets", "ascii-portrait.svg")
+OUT = os.path.join(os.path.dirname(__file__), "..", "assets", "retrato-ascii.svg")
 
 # recorte (fração da imagem): rosto e ombros
 CROP = (0.30, 0.04, 0.90, 0.62)
