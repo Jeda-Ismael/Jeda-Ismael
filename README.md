@@ -28,11 +28,8 @@
 
 <div align="center">
   <samp>
-    💼 Atualmente <b>Analista de Soluções e Dados</b> na <b>NBS TELECOM</b>
+     <b>Analista de Soluções e Dados</b> na <b>NBS TELECOM</b>
     <br>
-    📊 Transformo dados em soluções para provedores de internet (ISPs)
-    <br>
-    🗄️ Banco de dados, infraestrutura e automação
     <br>
     🎓 Estudante de Ciência da Computação
   </samp>
