@@ -104,9 +104,8 @@ def svg(a):
                        f'style="animation-delay:{i * 0.035:.3f}s">{"".join(parts)}</text>')
     fy = height - FOOT / 2 + 4
     out.append(f'<path d="M0 {height - FOOT:.0f}H{width:.0f}" stroke="#30363d"/>')
-    out.append(f'<text x="{PAD}" y="{fy:.0f}" font-size="12" fill="#8b949e">jedaias@github:~$ '
-               '<tspan fill="#c9d1d9">whoami</tspan> <tspan fill="#A020F0" font-weight="bold">'
-               'Jedaías Ismael</tspan> <tspan class="cur" fill="#c9d1d9">█</tspan></text>')
+    out.append(f'<text x="{PAD}" y="{fy:.0f}" font-size="12" font-weight="bold" fill="#A020F0">'
+               'Jedaías Ismael</text>')
     out.append("</svg>")
     return "\n".join(out) + "\n"
 
