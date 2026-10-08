@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Gera assets/banner.svg: banner do topo do README com o retrato ASCII,
+Gera assets/banner-topo.svg: banner do topo do README com o retrato ASCII,
 o nome em mandarim (杰达亚斯) e uma linha que digita e apaga frases.
 
 Os textos viram contornos (paths), então o banner fica igual em qualquer
@@ -22,12 +22,12 @@ from PIL import Image
 sys.path.insert(0, os.path.dirname(__file__))
 import make_ascii_svg as ascii_art  # noqa: E402
 
-OUT = os.path.join(os.path.dirname(__file__), "..", "assets", "banner.svg")
+OUT = os.path.join(os.path.dirname(__file__), "..", "assets", "banner-topo.svg")
 MONO = "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf"
 CJK = "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc"
 
 W, H = 1584, 396
-BG, FG, ORANGE, MUTED = "#111111", "#f4f1ec", "#ff7a18", "#6b6b6b"
+BG, FG, ORANGE, MUTED = "#0d1117", "#f4f1ec", "#ff7a18", "#6b6b6b"
 NAME = "杰达亚斯"
 PHRASES = [
     "Olá! Eu sou o Jedaías Ismael",
@@ -137,14 +137,11 @@ def main(photo):
         ".blink{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}"
         + "".join(css) + "</style>",
         f'<rect width="{W}" height="{H}" fill="{BG}"/>',
-        '<pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">'
-        '<circle cx="13" cy="13" r="1.2" fill="#ffffff" fill-opacity=".05"/></pattern>',
-        f'<rect width="{W}" height="{H}" fill="url(#dots)"/>',
         *portrait(photo),
         f'<path class="n" fill="{FG}" d="{name_d}"/>',
         f'<path fill="{ORANGE}" d="{prompt_d}"/>',
         *body,
-        f'<rect y="{H - 8}" width="{W}" height="8" fill="{ORANGE}"/>',
+        f'<rect y="{H - 8}" width="{W}" height="8" fill="#ffffff"/>',
         "</svg>",
     ]
     os.makedirs(os.path.dirname(OUT), exist_ok=True)

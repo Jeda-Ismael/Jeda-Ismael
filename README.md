@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-  <img width="100%" src="assets/banner.svg" alt="杰达亚斯 — Jedaías Ismael, Analista de Soluções e Dados na NBS TELECOM" />
+  <img width="100%" src="assets/banner-topo.svg" alt="杰达亚斯 — Jedaías Ismael, Analista de Soluções e Dados na NBS TELECOM" />
 </div>
 
 <br>
