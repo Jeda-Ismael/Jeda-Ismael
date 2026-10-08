@@ -38,7 +38,8 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:jedaiasismael@gmail.com)
+  <a href="https://www.linkedin.com/in/jedaias-ismael-7a781435a"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn"></a>
+  <a href="mailto:jedaiasismael@gmail.com"><img width="40" src="assets/Gmail-Dark.svg" alt="Gmail"></a>
 
 </div>
 
