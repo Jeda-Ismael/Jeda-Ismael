@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<h3><code>Jedaias Ismael</code></h3>
-
 <table>
 <tr>
 <td align="center" valign="middle" width="420">
@@ -27,7 +25,7 @@
     🎓 Estudante de Ciência da Computação
   </samp>
 </td>
-<td valign="top"><img src="assets/retrato-ascii.svg" width="420" alt="Retrato em ASCII de Jedaías Ismael" /></td>
+<td valign="top"><img src="assets/retrato.svg" width="420" alt="Retrato em ASCII de Jedaías Ismael" /></td>
 </tr>
 </table>
 
